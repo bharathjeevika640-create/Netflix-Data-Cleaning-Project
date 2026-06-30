@@ -20,5 +20,5 @@ Tasks Performed
 - Created visualizations
 - Analyzed Netflix content trends
   
- Outcome
+Outcome
 Successfully cleaned the dataset and generated meaningful visual insights.
