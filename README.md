@@ -52,14 +52,6 @@ Data Cleaning Tasks Performed
 7. Data Transformation
 8. Export Clean Dataset
 
-Project Structure
-
-Netflix-Data-Cleaning-Project/
-Netflix_Data_Cleaning.ipynb
-netflix_titles.csv
-README.md
-requirements.txt
-
 How to Run
 
 1. Clone this repository
