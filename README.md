@@ -55,11 +55,10 @@ Data Cleaning Tasks Performed
 Project Structure
 
 Netflix-Data-Cleaning-Project/
-│
-├── Netflix_Data_Cleaning.ipynb
-├── netflix_titles.csv
-├── README.md
-└── requirements.txt
+Netflix_Data_Cleaning.ipynb
+netflix_titles.csv
+README.md
+requirements.txt
 
 How to Run
 
