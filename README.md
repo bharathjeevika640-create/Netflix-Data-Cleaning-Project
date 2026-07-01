@@ -52,19 +52,21 @@ Data Cleaning Tasks Performed
 7. Data Transformation
 8. Export Clean Dataset
 
-How to Run
+ How to Run
 
-1. Clone this repository
+ 1. Clone this repository
 
 bash
 git clone https://github.com/bharathjeevika640-create/Netflix-Data-Cleaning-Project.git
 
-2. Install the required libraries
+
+ 2. Install the required libraries
 
 bash
 pip install -r requirements.txt
 
-3. Open the notebook
+
+ 3. Open the notebook
 
 bash
 jupyter notebook
@@ -78,9 +80,7 @@ Key Learning Outcomes
  Data Transformation
  Pandas Operations
  Python for Data Analytics
-
-Project Preview
-
+ 
 Author
 
 Jeevega P
@@ -95,4 +95,4 @@ https://www.linkedin.com/in/jeevega-p-1405343b9/
 
  Support
 
-If you found this project helpful, consider giving this repository a on GitHub.
+If you found this project helpful, please consider giving it a ⭐ on GitHub.
